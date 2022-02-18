@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FrutlesPoent
 - 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently at CFTSHFITLAB
 - 📫 How to reach me "frutlespoent@gmail.com"
 
 <!---
